@@ -1,0 +1,22 @@
+{
+  "total": {
+    "orders": 3,
+    "success": 3,
+    "fail": 0,
+    "stars": 150,
+    "profit": 0.15000000000000002
+  },
+  "daily": {
+    "2026-04-15": {
+      "orders": 3,
+      "stars": 150,
+      "profit": 0.15000000000000002
+    }
+  },
+  "buyers": {
+    "sinyuck": 1,
+    "pmsh228": 1,
+    "hate_yoouu": 1
+  },
+  "last_update": "2026-04-15T22:54:07.429859"
+}
